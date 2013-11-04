@@ -1,0 +1,2 @@
+require './translator'
+run Translator
